@@ -1,0 +1,4 @@
+# Project exclude paths
+/demo/${project.build.directory}/classes/
+/demo/${project.build.directory}/test-classes/
+/demo/target/
